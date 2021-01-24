@@ -1,5 +1,5 @@
 # INSTALL
-``` javascript
+``` php
 pkg update && pkg upgrade
 pkg install git
 pkg install python2
