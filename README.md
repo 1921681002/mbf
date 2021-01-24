@@ -1,5 +1,5 @@
 # INSTALL
-``` c++
+``` html
 pkg update && pkg upgrade
 pkg install git
 pkg install python2
