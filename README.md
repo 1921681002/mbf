@@ -9,7 +9,7 @@ pip2 install requests
 pip install requests
 pip2 install bs4
 pip install bs4
-git clone https://github.com/alvingansxyz/mbf
+git clone https://github.com/kinarworo/mbf
 cd mbf
 python2 run.py
 ```
